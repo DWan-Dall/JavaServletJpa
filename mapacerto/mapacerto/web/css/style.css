@@ -1,0 +1,58 @@
+body {
+    font-family: sans-serif;
+    padding: 0 20% 0 20%;
+}
+
+h1 {
+    text-align: center;
+    background: black;
+    color: white;
+    padding: 20px;
+}
+
+button {
+    width: 20%;
+    padding: 8px;
+    margin: 0 40%; 
+    background: orange;
+    color: white;
+    font-weight: bold;
+    font-size: 15px;
+    border: none;
+    border-radius: 8px;
+    transition: 1s all;
+    cursor: pointer;
+}
+
+button:hover {
+    background: darkorange;
+    transform: scale(1.2);
+}
+
+.enviar {
+    width: 20%;
+    padding: 8px;
+    margin: 0 40%; 
+    background: green;
+    color: white;
+    font-weight: bold;
+    font-size: 15px;
+    border: none;
+    border-radius: 8px;
+    transition: 1s all;
+    cursor: pointer;
+}
+
+.enviar:hover {
+    background: darkgreen;
+    transform: scale(1.2);
+}
+
+
+footer {
+    font-size: small;
+    text-align: center;
+    color: grey;
+    padding: 25px;
+}
+
