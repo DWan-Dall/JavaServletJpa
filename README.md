@@ -1,5 +1,5 @@
 # JavaServletJsp
-Projeto com Java, utilizando Servlet e JPA (trabalho de faculdade - Sistemas para Internet):
+Projeto com Java, utilizando Servlet e JPA (trabalho de faculdade - Sistemas para Internet - PROGRAMAÇÃO AVANÇADA):
 
 A linguagem Java é amplamente conhecida por ser uma linguagem multiplataforma, ou seja, o mesmo código pode ser executado em diferentes sistemas operacionais.
 Algumas linguagens voltadas para web acabam contornando isso ao executar seus programas direto em um navegador, combinado com um servidor web.
